@@ -1,0 +1,15 @@
+title: Zonglin Zhang
+description: DSC 180A - Methodology Assignment 4
+theme: jekyll-theme-cayman
+url: "https://zonglinz.github.io"
+baseurl: "/DSC180A-Methodology-4"
+lang: en-US
+markdown: kramdown
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
