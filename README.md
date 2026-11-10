@@ -25,7 +25,3 @@ bundle exec jekyll serve
 Open the local URL printed by Jekyll, including the
 `/DSC180A-Methodology-4/` project path.
 
-## Submission
-
-Submit the public website URL and `index.md` to Task 2 in the
-Methodology Assignment 4 Gradescope portal.
